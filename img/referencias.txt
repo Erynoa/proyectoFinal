@@ -1,0 +1,33 @@
+﻿Logo - creación propia
+Icon carrito - <a href="https://www.flaticon.es/iconos-gratis/carrito-inteligente" title="carrito inteligente iconos">Carrito inteligente iconos creados por Freepik - Flaticon</a>
+Icon user - <a href="https://www.flaticon.es/iconos-gratis/perfil" title="perfil iconos">Perfil iconos creados por joalfa - Flaticon</a>
+Icon salida - <a href="https://www.flaticon.es/iconos-gratis/fuera" title="fuera iconos">Fuera iconos creados por Pavel Kozlov - Flaticon</a>
+Icon buscar - <a href="https://www.flaticon.es/iconos-gratis/buscar" title="buscar iconos">Buscar iconos creados por Corner Pixel - Flaticon</a>
+Icon no IMG - <a href="https://www.flaticon.es/iconos-gratis/ui" title="ui iconos">Ui iconos creados por yaicon - Flaticon</a>
+Icon ropa - <a href="https://www.flaticon.es/iconos-gratis/moda" title="moda iconos">Moda iconos creados por Freepik - Flaticon</a>
+Icon calzado - <a href="https://www.flaticon.es/iconos-gratis/zapatilla" title="zapatilla iconos">Zapatilla iconos creados por Freepik - Flaticon</a>
+icon ropa baño - <a href="https://www.flaticon.es/iconos-gratis/traje-de-bano" title="traje de baño iconos">Traje de baño iconos creados por vostockshop - Flaticon</a>
+icon accesorios - <a href="https://www.flaticon.es/iconos-gratis/accesorios" title="accesorios iconos">Accesorios iconos creados por Chanut-is-Industries - Flaticon</a>
+ciclismo - <a href="https://www.flaticon.es/iconos-gratis/ciclismo" title="ciclismo iconos">Ciclismo iconos creados por kosonicon - Flaticon</a>
+futbol - <a href="https://www.flaticon.es/iconos-gratis/deporte" title="deporte iconos">Deporte iconos creados por mavadee - Flaticon</a>
+baloncesto - <a href="https://www.flaticon.es/iconos-gratis/baloncesto" title="baloncesto iconos">Baloncesto iconos creados por Freepik - Flaticon</a>
+voleibol - <a href="https://www.flaticon.es/iconos-gratis/voleibol" title="vóleibol iconos">Vóleibol iconos creados por Freepik - Flaticon</a>
+rugby - <a href="https://www.flaticon.es/iconos-gratis/pelota" title="pelota iconos">Pelota iconos creados por Good Ware - Flaticon</a>
+tenis - <a href="https://www.flaticon.es/iconos-gratis/tenis" title="tenis iconos">Tenis iconos creados por Good Ware - Flaticon</a>
+ski - <a href="https://www.flaticon.es/iconos-gratis/salto-en-ski" title="salto en ski iconos">Salto en ski iconos creados por iconographics - Flaticon</a>
+snow - <a href="https://www.flaticon.es/iconos-gratis/snowboard" title="snowboard iconos">Snowboard iconos creados por Vitaly Gorbachev - Flaticon</a>
+balonmano - <a href="https://www.flaticon.es/iconos-gratis/balonmano" title="balonmano iconos">Balonmano iconos creados por Ranah Pixel Studio - Flaticon</a>
+running - <a href="https://www.flaticon.es/iconos-gratis/pique" title="pique iconos">Pique iconos creados por Prosymbols Premium - Flaticon</a>
+musculacion - <a href="https://www.flaticon.es/iconos-gratis/gimnasio" title="gimnasio iconos">Gimnasio iconos creados por Freepik - Flaticon</a>
+cardio - <a href="https://www.flaticon.es/iconos-gratis/cardio" title="cardio iconos">Cardio iconos creados por Freepik - Flaticon</a>
+pilates - <a href="https://www.flaticon.es/iconos-gratis/pilates" title="pilates iconos">Pilates iconos creados por Freepik - Flaticon</a>
+icon Twitter - <a href="https://www.flaticon.es/iconos-gratis/gorjeo" title="gorjeo iconos">Gorjeo iconos creados por Dave Gandy - Flaticon</a>
+icon instagram - <a href="https://www.flaticon.es/iconos-gratis/instagram" title="instagram iconos">Instagram iconos creados por Freepik - Flaticon</a>
+icon email - <a href="https://www.flaticon.es/iconos-gratis/nuevo-email" title="nuevo email iconos">Nuevo email iconos creados por Freepik - Flaticon</a>
+icon papelera - <a href="https://www.flaticon.es/iconos-gratis/papelera-de-reciclaje" title="papelera de reciclaje iconos">Papelera de reciclaje iconos creados por gungyoga04 - Flaticon</a>
+icon pdf - <a href="https://www.flaticon.es/iconos-gratis/pdf" title="pdf iconos">Pdf iconos creados por kliwir art - Flaticon</a>
+icon modificar - <a href="https://www.flaticon.es/iconos-gratis/editar" title="editar iconos">Editar iconos creados por Pixel perfect - Flaticon</a>
+icon anadir - <a href="https://www.flaticon.es/iconos-gratis/anadir" title="añadir iconos">Añadir iconos creados por Freepik - Flaticon</a>
+anadir imagen - <a href="https://www.flaticon.es/iconos-gratis/imagen" title="imagen iconos">Imagen iconos creados por icon_small - Flaticon</a>
+
+PRODUCTOS - Decathlon
