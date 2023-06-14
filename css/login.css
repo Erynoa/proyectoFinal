@@ -1,0 +1,103 @@
+/* Móvil */
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../recursos/Dosis-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: bold;
+    font-weight: 500;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: Medium;
+    font-weight: 600;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+nav {
+    background-color: #a7cdff;
+}
+
+body {
+    font-family: 'Dosis';
+    font-size:larger;
+}
+
+h1 {
+    color: #0215a8;
+}
+
+h4 {
+    color: #1f39ff;
+}
+
+#hrForm {
+    margin: 5%;
+}
+
+#botonRegistro {
+    background-color: #0d6efd;
+}
+
+#iconRed {
+    width: 50%;
+}
+
+#divLoginRegistro {
+    margin: auto;
+    padding: 5%;
+}
+
+#mensaje {
+    margin: auto;
+    text-align: center;
+}
+
+
+/* Tablets : 768px y más) */
+@media only screen and (min-width: 768px) {
+    #iconRed {
+        width: 40%;
+    }
+
+}
+ 
+/* Ordenador: 992px y más) */
+@media only screen and (min-width: 992px) {
+    #iconRed {
+        width: 20%;
+    }
+    
+    #divLoginRegistro {
+        width: 50%;
+    }
+
+    #mensaje {
+        width: 70%;
+    }
+
+}
+
+/* Ordenador: 1024px y más) */
+@media only screen and (min-width: 1024px) {
+    #iconRed {
+        width: 20%;
+    }
+
+}
+
+/* Ordenador: 1440px y más) */
+@media only screen and (min-width: 1440px) {
+
+    #iconRed {
+        width: 15%;
+    }
+
+}
+ 

@@ -1,0 +1,100 @@
+/* Móvil */
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../recursos/Dosis-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: bold;
+    font-weight: 500;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: Medium;
+    font-weight: 600;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+nav {
+    background-color: #a7cdff;
+}
+
+body {
+    font-family: 'Dosis';
+    font-size:larger;
+}
+
+h1 {
+    color: #0215a8;
+}
+
+h3 {
+    color: #0622f5;
+}
+
+#iconRed {
+    width: 100%;
+}
+
+#botonGestion {
+    background-color: #f5bf05;
+    border-color: #f5bf05;
+    color: #000;
+    margin: 2%;
+}
+
+#formularioAnadir {
+    padding: 2%;
+    margin: auto;
+    width: 90%;
+}
+
+textarea.form-control {
+    min-height: calc(4.5em + 0.75rem + 2px);
+}
+
+.form-floating>.form-control:not(:placeholder-shown) {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+ 
+/* Tablets : 768px y más) */
+@media only screen and (min-width: 768px) {
+    #iconRed {
+        width: 40%;
+    }
+
+    #formularioAnadir {
+        width: 80%;
+    }
+}
+ 
+/* Ordenador: 1024 y más) */
+@media only screen and (min-width: 1024px) {
+    #iconRed {
+        width: 30%;
+    }
+
+    #formularioAnadir {
+        width: 70%;
+    }
+
+}
+
+/* Ordenador: 1440px y más) */
+@media only screen and (min-width: 1440px) {
+    #iconRed {
+        width: 15%;
+    }
+
+    #formularioAnadir {
+        width: 50%;
+    }
+
+}
+ 

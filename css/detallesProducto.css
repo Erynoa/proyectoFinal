@@ -1,0 +1,105 @@
+/* Móvil */
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../recursos/Dosis-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: bold;
+    font-weight: 500;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: Medium;
+    font-weight: 600;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+nav {
+    background-color: #a7cdff;
+}
+
+body {
+    font-family: 'Dosis';
+    font-size:larger;
+}
+
+h1 {
+    color: #0215a8;
+}
+
+h3 {
+    color: #1f39ff;
+}
+
+#botonRetroceder {
+    margin: 2%;
+    background-color: #1f39ff;
+}
+
+#iconRed {
+    width: 80%;
+}
+
+#pPrecio {
+    font-weight: 500;
+}
+
+#botonComprar { 
+    background-color: #1f39ff;
+}
+
+#imgProducto {
+    width: 100%;
+}
+
+/* Tablets : 768px y más) */
+@media only screen and (min-width: 768px) {
+    #iconRed {
+        width: 40%;
+    }
+
+    #imgProducto {
+        width: 80%;
+    }
+
+}
+ 
+/* Ordenador: 992px y más) */
+@media only screen and (min-width: 992px) {
+    #iconRed {
+        width: 20%;
+    }
+
+    #formularioCompra {
+        width: 75%;
+        margin: auto;
+    }
+
+}
+
+/* Ordenador: 1024px y más) */
+@media only screen and (min-width: 1024px) {
+    #iconRed {
+        width: 20%;
+    }
+
+}
+
+/* Ordenador: 1440px y más) */
+@media only screen and (min-width: 1440px) {
+
+    #iconRed {
+        width: 15%;
+    }
+
+    #imgProducto {
+        width: 50%;
+    }
+}
+ 

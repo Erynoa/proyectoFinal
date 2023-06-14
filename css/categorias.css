@@ -1,0 +1,118 @@
+/* Móvil */
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../recursos/Dosis-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: bold;
+    font-weight: 500;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: Medium;
+    font-weight: 600;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+nav {
+    background-color: #a7cdff;
+}
+
+body {
+    font-family: 'Dosis';
+    font-size: large;
+}
+
+h1 {
+    color: #0215a8;
+}
+
+h4 {
+    color: #1f39ff;
+}
+
+
+.card {
+    margin: auto;
+    text-align: center;
+    border: 1px solid #0215a8;
+    border-radius: 5%;
+    width: 18rem;
+}
+
+#imagenCard {
+    padding: 10%;
+}
+
+#precio {
+    font-size: large;
+    font-weight: 500;
+}
+
+#botonDetalles {
+    background-color: #1f39ff;
+}
+
+#botonBuscar {
+    background-color: #1f39ff;
+}
+
+#formularioBuscarPorCat {
+    margin: 2%;
+}
+
+#check {
+    margin: 3%;
+}
+
+#iconRed {
+    width: 80%;
+}
+ 
+/* Tablets : 768px y más) */
+@media only screen and (min-width: 768px) {
+    #iconRed {
+        width: 40%;
+    }
+
+    #check {
+        margin: 1%;
+    }
+}
+ 
+/* Ordenador: 992px y más) */
+@media only screen and (min-width: 992px) {
+    #iconRed {
+        width: 20%;
+    }
+
+}
+
+/* Ordenador: 1024px y más) */
+@media only screen and (min-width: 1024px) {
+    #iconRed {
+        width: 20%;
+    }
+
+    .card {
+        width: 14rem;
+    }
+}
+
+/* Ordenador: 1440px y más) */
+@media only screen and (min-width: 1440px) {
+    .card {
+        width: 20rem;
+    }
+
+    #iconRed {
+        width: 15%;
+    }
+}
+ 

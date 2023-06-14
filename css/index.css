@@ -1,0 +1,80 @@
+/* Móvil */
+@font-face {
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../recursos/Dosis-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: bold;
+    font-weight: 500;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Dosis';
+    font-style: Medium;
+    font-weight: 600;
+    src: url(../recursos/Dosis-Bold.ttf);
+}
+
+nav {
+    background-color: #a7cdff;
+}
+
+body {
+    font-family: 'Dosis';
+    font-size:larger;
+}
+
+h1 {
+    color: #0215a8;
+}
+
+#iconRed {
+    width: 50%;
+}
+
+#imgPortada {
+    width: 100%;
+    border: 2px solid #0215a8;
+    border-radius: 10%;
+}
+
+#divPortada {
+    text-align: center;
+    margin: 5%;
+}
+ 
+/* Tablets : 768px y más) */
+@media only screen and (min-width: 768px) {
+    #iconRed {
+        width: 40%;
+    }
+}
+ 
+/* Ordenador: 992px y más) */
+@media only screen and (min-width: 992px) {
+    #iconRed {
+        width: 20%;
+    }
+
+    #divPortada {
+        margin: 1%;
+    }
+
+    #imgPortada {
+        width: 50%;
+        margin: 1%;
+    }
+}
+
+/* Ordenador: 992px y más) */
+@media only screen and (min-width: 992px) {
+    #iconRed {
+        width: 10%;
+    }
+}
+ 
